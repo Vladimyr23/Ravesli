@@ -21,6 +21,9 @@
     <ClCompile Include="Add.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="print_not.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
