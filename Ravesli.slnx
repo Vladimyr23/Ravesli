@@ -3,6 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="Lesson_25_Calculator/Lesson_25_Calculator.vcxproj" Id="496acca6-e2a7-48da-a6f9-16c43d18dabe" />
   <Project Path="Ravesli_12/Ravesli_12.vcxproj" Id="805b79f1-e00f-d7a7-4993-90041d52533e" />
   <Project Path="Ravesli_13/Ravesli_13.vcxproj" Id="8fc654b8-7c02-4e28-8a33-629f080d9f95" />
   <Project Path="Ravesli_15/Ravesli_15.vcxproj" Id="03b6062b-75d1-4a21-b34e-5dca00bd43f6" />
