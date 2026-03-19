@@ -9,7 +9,7 @@ int main()
 	int x = readNumber();
 	int y = readNumber();
 	int result = x + y;
-	writeAnswer(result);
+	writeAnswer(result);// in answers writeAnswer(x + y);
 	return 0;
 }
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
