@@ -7,7 +7,7 @@ int main()
 	int x = readNumber();
 	int y = readNumber();
 	int result = x + y;
-	writeAnswer(result);
+	writeAnswer(result);// in answers writeAnswer(x + y);
 	return 0;
 }
 
