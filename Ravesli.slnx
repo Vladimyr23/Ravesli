@@ -12,4 +12,6 @@
   <Project Path="Ravesli_26/Ravesli_26.vcxproj" Id="583b9d12-ae45-4b59-9e35-c9b803454450" />
   <Project Path="Ravesli_5/Ravesli_5.vcxproj" Id="3429539c-2343-66ad-de54-acfe8742d6bb" />
   <Project Path="Volume1test1/Volume1test1.vcxproj" Id="a38c3405-4f9f-4101-a77c-004f9a3c9dbb" />
+  <Project Path="Volume1test2/Volume1test2.vcxproj" Id="37e58230-6e76-4192-9bdd-5defb3d4169f" />
+  <Project Path="Volume1test3/Volume1test3.vcxproj" Id="156ff64a-4e74-496a-8573-d518750bb4ce" />
 </Solution>
